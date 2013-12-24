@@ -5,7 +5,7 @@ It's easy to stream any radio station on your computer.
 just download .m3u file and double click it - you're done.
 
 
-HOW TO STREAM RADIO STATIONS (FREE)
+HOW TO STREAM RADIO STATIONS
 ============================
 
 1. Download [VLC](http://www.videolan.org/vlc/index.html)
