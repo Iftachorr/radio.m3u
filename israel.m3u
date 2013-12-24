@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:0,88FM - 88FM
+mms://s4bwm.castup.net/990310006-52.wmv?ct=IL&rg=OR&aid=31&tkn=20131224112511&ts=0&cu=EFBE3475-902C-4BAA-837F-D51A14F28707
+#EXTINF:0,99FM - 99FM
+mms://194.90.203.111/99fm
+#EXTINF:0,Reshet A - Reshet A
+mms://s67wm.castup.net/990310002-52.wmv
+#EXTINF:0,Reshet B - Reshet B
+mms://s3ewm.castup.net/990310001-52.wmv?ct=IL&rg=OR&aid=31&tkn=20131224134621&ts=0&cu=05697C06-4C0E-4052-AADB-715C29C0B8BF
+#EXTINF:0,Reshet G - Reshet G
+mms://sv9wm.castup.net/990310004-52.wmv?ct=IL&rg=OR&aid=31&tkn=20131224134656&ts=0&cu=8440BBC7-4D10-4E20-920A-6D64E164F489
+#EXTINF:0,103FM - 103FM
+mms://sv8wm.castup.net/995460001-52.wmv?ct=IL&rg=OR&aid=546&tkn=20131224134849&ts=0&cu=F9ED38C0-5318-4FAD-86E5-93660DE6811C
+#EXTINF:0,Radio Jerusalem - Radio Jerusalem
+mms://212.150.243.29/101fm
